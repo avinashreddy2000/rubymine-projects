@@ -1,2 +1,2 @@
 # rubymine-projects
-This description is about Rubymine projects
+This description is about my Rubymine projects
